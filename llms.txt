@@ -1,0 +1,26 @@
+# Acapo
+
+> Acapo takes a song you already own, lifts the voice out and hands you two clean tracks: the band and the vocals. Then it helps you actually sing it.
+
+Acapo: Vocal Remover & Karaoke — Song Key Changer & Maker. iPhone app, available on the App Store: https://apps.apple.com/app/id6787714908?ct=ai_web
+
+## Guides
+
+- [Acapo vs Moises: a Cheaper Alternative for Singers on iPhone? | Acapo](https://jjjulietttee-jpg.github.io/vocalio-app/acapo-vs-moises): Honest comparison of Acapo and Moises on iPhone: price, free tier, what each does best, and who should pick which.
+- [How to Change the Key of a Song to Fit Your Voice on iPhone | Acapo](https://jjjulietttee-jpg.github.io/vocalio-app/change-the-key-of-a-song-to-fit-your-voice-on-iphone): Move any song you own into a key that suits your voice on iPhone, without changing the speed. Acapo finds the key, checks where the singer sits and suggests the shift. Honest comparison with other apps.
+- [How to Get an Acapella From a Song on iPhone | Acapo](https://jjjulietttee-jpg.github.io/vocalio-app/get-an-acapella-from-a-song-on-iphone): Extract the vocals of a song you own as an acapella on iPhone with AI. Step by step, with an honest comparison to Moises, LALAL.AI and others.
+- [How to Make a Karaoke Track and Record Yourself Singing on iPhone | Acapo](https://jjjulietttee-jpg.github.io/vocalio-app/make-a-karaoke-track-and-record-yourself-on-iphone): Turn a song you own into a karaoke track on iPhone, then record your own cover over it with headphones, balance your voice and the band and save the result. Honest comparison with other apps.
+- [How to Remove Vocals From a Song on iPhone | Acapo](https://jjjulietttee-jpg.github.io/vocalio-app/remove-vocals-from-a-song-on-iphone): Step by step: remove the vocals from a song you own on iPhone with AI and get a karaoke backing track, or keep only the voice as an acapella. Honest comparison with Moises, LALAL.AI and others.
+- [How to Slow Down and Loop Part of a Song to Practice on iPhone | Acapo](https://jjjulietttee-jpg.github.io/vocalio-app/slow-down-and-loop-part-of-a-song-on-iphone): Practice a hard line or solo on iPhone: mark an A-B loop, slow the tempo down without changing pitch, then speed it back up. Step by step with an honest app comparison.
+
+## App
+
+- [Home](https://jjjulietttee-jpg.github.io/vocalio-app/): what Acapo does, features, pricing
+- [App Store](https://apps.apple.com/app/id6787714908?ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Content-Rights](https://jjjulietttee-jpg.github.io/vocalio-app/content-rights)
+- [Privacy](https://jjjulietttee-jpg.github.io/vocalio-app/privacy)
+- [Support](https://jjjulietttee-jpg.github.io/vocalio-app/support)
+- [Terms](https://jjjulietttee-jpg.github.io/vocalio-app/terms)
