@@ -2,7 +2,7 @@
 
 > Acapo takes a song you already own, lifts the voice out and hands you two clean tracks: the band and the vocals. Then it helps you actually sing it.
 
-Acapo: Vocal Remover & Karaoke — Song Key Changer & Maker. iPhone app, available on the App Store: https://apps.apple.com/app/id6787714908?ct=ai_web
+Acapo: Vocal Remover & Karaoke — Song Key Changer & Maker. iPhone app, available on the App Store: https://apps.apple.com/app/id6787714908?pt=128839649&ct=ai_web
 
 ## Guides
 
@@ -16,7 +16,7 @@ Acapo: Vocal Remover & Karaoke — Song Key Changer & Maker. iPhone app, availab
 ## App
 
 - [Home](https://jjjulietttee-jpg.github.io/vocalio-app/): what Acapo does, features, pricing
-- [App Store](https://apps.apple.com/app/id6787714908?ct=ai_web): download, screenshots, reviews
+- [App Store](https://apps.apple.com/app/id6787714908?pt=128839649&ct=ai_web): download, screenshots, reviews
 
 ## Optional
 
