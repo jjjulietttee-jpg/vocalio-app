@@ -20,7 +20,6 @@ Vocalroom: Vocal Remover & Karaoke — Song Key Changer & Maker. iPhone app, ava
 
 ## Optional
 
-- [Content-Rights](https://jjjulietttee-jpg.github.io/vocalio-app/content-rights)
 - [Privacy](https://jjjulietttee-jpg.github.io/vocalio-app/privacy)
 - [Support](https://jjjulietttee-jpg.github.io/vocalio-app/support)
 - [Terms](https://jjjulietttee-jpg.github.io/vocalio-app/terms)
